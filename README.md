@@ -2,7 +2,7 @@
 
 ## Description:
 
-The game is designed base on the old game Block Breaker.  The scenes in the game are developed by applying Unity tools such as gravity system and Using C# to create user interaction.
+The game is designed base on the old game "Block Breaker" by using Unity game engine.  The scenes in the game are developed by applying the gravity system to interact C# code and UI.
 
 ## Display:
 
